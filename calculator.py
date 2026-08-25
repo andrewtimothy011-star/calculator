@@ -9,3 +9,7 @@ def subtract(a, b):
 
 def add(a, d):
     return a + d
+def divide(a, b):
+    return a/b 
+def divide(c, d):
+    return c/d 
